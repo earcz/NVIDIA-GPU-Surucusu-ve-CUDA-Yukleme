@@ -3,4 +3,4 @@ Ubuntu 16.04 İşletim Sistemine NVIDIA Sürücüsü ve CUDA Yükleme Rehberi
 
 Ubuntu/Linux işletim sistemine NVIDIA GPU sürücüsü yüklemenin birden fazla yöntemi vardır. Hangi amaçla kullanacaksanız, yükleme yönteminizi belirlemeniz gerekmektedir. Bunun için ön araştırma yapmanızı tavsiye ederim. Bu rehberde Ubuntu 16.04 işletim sistemine, NVIDIA GPU sürücüsünün ve CUDA'nın istenilen sürümünün/versiyonunun nasıl yüklendiği gösterileceltir. CUDA yüklendikten sonra cuDNN'in nasıl aktifleştirildiğini de göreceksiniz.
 
-Hadi başlayalım.
+Yükleme işlemlerini sağ-üst yukarıda bulunan Wiki sekmesinden takip edebilirsiniz.
